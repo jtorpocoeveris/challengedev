@@ -1,14 +1,14 @@
-name_vpc = "challenge2"
+name_vpc = "challenge3"
 
 tags = {
-  "challange" : "jackdevops",
-  "environment" : "demo"
+  "challange" : "jackdevops2",
+  "environment" : "demo2"
 }
 
-bucket_name = "challengedevopsjack"
+bucket_name = "challengedevopsjack2"
 
-aws_lambda_function_name = "lambdajack3"
+aws_lambda_function_name = "lambdajack4"
 
-role_lambda = "lambdarole5"
+role_lambda = "lambdarole6"
 
-app_version= "v1.0.5"
+app_version= "v1.0.6"
