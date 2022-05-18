@@ -5,9 +5,9 @@ tags = {
   "environment" : "demo2"
 }
 
-bucket_name = "challengedevopsjack2"
+bucket_name = "challengedevopsjack"
 
-aws_lambda_function_name = "lambdajack4"
+aws_lambda_function_name = "lambdajack3"
 
 role_lambda = "lambdarole6"
 
